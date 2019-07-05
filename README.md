@@ -11,5 +11,6 @@ For ease of document management, please follow the upload rules as below:
 2. If your presentation contains video displaying, we suggest you put the online video URL in the PDF instead of uploading it. 
 3. Each file should be uploaded to a correct directory, e.g., academic-trends/2019-7-5/张天宇.pdf. 
 
+## Contributors
 
-
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/1)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/2)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/3)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/3)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/4)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/4)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/5)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/5)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/6)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/6)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/7)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/7)
