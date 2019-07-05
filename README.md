@@ -7,5 +7,6 @@ Every week, we have seminars on academic frontiers and industry trends. This rep
 
 ## Pull rule 
 1. Each submission shall upload a file containing all resources involved in the presentation. The upload file should be a PDF. 
+2. Please replace your video in PPT with a video URL.
 
 
