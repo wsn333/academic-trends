@@ -3,7 +3,7 @@
 </p>
 
 # Academic Trends
-Every week, we have seminars on **academic frontiers** and **industry trends**. This repository is used to record slides from presentations given by each person. 
+Every week, we have sharing concerning **academic frontiers** and **industry trends**. This repository is used to record slides from presentations given by each person. 
 
 ## Pull Rule 
 For ease of document management, please follow the upload rules as below: 
