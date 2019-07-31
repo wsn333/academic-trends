@@ -13,4 +13,11 @@ For ease of document management, please follow the upload rules as below:
 
 ## Contributors
 
-[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/1)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/2)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/3)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/3)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/4)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/4)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/5)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/5)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/6)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/6)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/images/7)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/academic-trends/links/7)
+[![0](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/0)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/0)
+[![1](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/1)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/1)
+[![2](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/2)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/2)
+[![3](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/3)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/3)
+[![4](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/4)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/4)
+[![5](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/5)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/5)
+[![6](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/6)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/6)
+[![7](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/images/7)](https://sourcerer.io/fame/ztygalaxy/wsn333/academic-trends/links/7)
